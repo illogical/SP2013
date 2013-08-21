@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d91437bd-3d70-4e8f-8098-799f2e7d8b85" solutionId="d91437bd-3d70-4e8f-8098-799f2e7d8b85" resetWebServer="false" sharePointProductVersion="15.0" name="SiteMap" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f68f250b-6d73-43a4-a9f9-5347f1b01e39" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="0f763b07-4804-48fa-b81d-908cd7c62335" />
+  </projectItems>
+</package>

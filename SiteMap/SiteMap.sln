@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteMap", "SiteMap.csproj", "{52DC988D-C924-4332-9DF3-309C691DD1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DC988D-C924-4332-9DF3-309C691DD1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DC988D-C924-4332-9DF3-309C691DD1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DC988D-C924-4332-9DF3-309C691DD1BA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{52DC988D-C924-4332-9DF3-309C691DD1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DC988D-C924-4332-9DF3-309C691DD1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DC988D-C924-4332-9DF3-309C691DD1BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
